@@ -1,0 +1,940 @@
+[
+  {
+    "id": 1,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "tags": [
+      "politics",
+      "ecology",
+      "space",
+      "empire",
+      "prophecy"
+    ],
+    "description": "Desert planet Arrakis becomes the center of political intrigue, ecology, prophecy, and a struggle for control of a precious resource.",
+    "rating": 4.5,
+    "year": 1957,
+    "cover": "https://covers.openlibrary.org/b/title/Dune-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags": [
+      "dragons",
+      "quest",
+      "friendship",
+      "courage"
+    ],
+    "description": "Bilbo Baggins joins a company of dwarves on a dangerous quest to reclaim their mountain home and treasure.",
+    "rating": 3.9,
+    "year": 1974,
+    "cover": "https://covers.openlibrary.org/b/title/The+Hobbit-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags": [
+      "epic",
+      "quest",
+      "friendship",
+      "good",
+      "evil"
+    ],
+    "description": "A fellowship journeys across Middle-earth to destroy a powerful ring and resist the rise of a dark lord.",
+    "rating": 4.6,
+    "year": 1991,
+    "cover": "https://covers.openlibrary.org/b/title/The+Lord+of+the+Rings-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "tags": [
+      "space",
+      "empire",
+      "science",
+      "future"
+    ],
+    "description": "A mathematician predicts the fall of a galactic empire and creates a foundation to preserve knowledge through a coming dark age.",
+    "rating": 4.0,
+    "year": 2008,
+    "cover": "https://covers.openlibrary.org/b/title/Foundation-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genres": [
+      "Sci-Fi",
+      "Tech"
+    ],
+    "tags": [
+      "cyberpunk",
+      "hacking",
+      "artificial",
+      "intelligence"
+    ],
+    "description": "A washed-up computer hacker is hired for a dangerous digital heist in a gritty cyberpunk future.",
+    "rating": 4.7,
+    "year": 1942,
+    "cover": "https://covers.openlibrary.org/b/title/Neuromancer-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "tags": [
+      "aliens",
+      "strategy",
+      "space",
+      "coming",
+      "of",
+      "age"
+    ],
+    "description": "A gifted child trains in a military space program to defend humanity against an alien threat.",
+    "rating": 4.1,
+    "year": 1959,
+    "cover": "https://covers.openlibrary.org/b/title/Ender's+Game-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "tags": [
+      "space",
+      "engineering",
+      "survival",
+      "science"
+    ],
+    "description": "An astronaut stranded on Mars uses engineering, science, and humor to survive against impossible odds.",
+    "rating": 4.8,
+    "year": 1976,
+    "cover": "https://covers.openlibrary.org/b/title/The+Martian-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "tags": [
+      "space",
+      "science",
+      "mystery",
+      "survival"
+    ],
+    "description": "A lone astronaut wakes far from Earth and must solve a scientific mystery to save humanity.",
+    "rating": 4.2,
+    "year": 1993,
+    "cover": "https://covers.openlibrary.org/b/title/Project+Hail+Mary-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "1984",
+    "author": "George Orwell",
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "tags": [
+      "dystopia",
+      "politics",
+      "surveillance",
+      "freedom"
+    ],
+    "description": "In a totalitarian state, Winston Smith struggles against surveillance, propaganda, and enforced conformity.",
+    "rating": 4.9,
+    "year": 2010,
+    "cover": "https://covers.openlibrary.org/b/title/1984-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genres": [
+      "Sci-Fi",
+      "Fiction"
+    ],
+    "tags": [
+      "dystopia",
+      "technology",
+      "society"
+    ],
+    "description": "A technologically engineered society trades freedom and individuality for comfort and stability.",
+    "rating": 4.3,
+    "year": 1944,
+    "cover": "https://covers.openlibrary.org/b/title/Brave+New+World-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genres": [
+      "Sci-Fi",
+      "Fiction"
+    ],
+    "tags": [
+      "dystopia",
+      "books",
+      "censorship"
+    ],
+    "description": "A fireman in a society that bans books begins to question censorship and conformity.",
+    "rating": 5.0,
+    "year": 1961,
+    "cover": "https://covers.openlibrary.org/b/title/Fahrenheit+451-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "magic",
+      "music",
+      "mystery",
+      "coming",
+      "of",
+      "age"
+    ],
+    "description": "A gifted musician and magician recounts the formative experiences that made him a legendary figure.",
+    "rating": 4.4,
+    "year": 1978,
+    "cover": "https://covers.openlibrary.org/b/title/The+Name+of+the+Wind-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags": [
+      "magic",
+      "school",
+      "friendship",
+      "mystery"
+    ],
+    "description": "A young orphan discovers he is a wizard and enters a magical school full of friendship and danger.",
+    "rating": 3.8,
+    "year": 1995,
+    "cover": "https://covers.openlibrary.org/b/title/Harry+Potter+and+the+Philosopher's+Stone-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "epic",
+      "fantasy",
+      "war",
+      "magic",
+      "honor"
+    ],
+    "description": "Warriors, scholars, and leaders confront a vast conflict in a world shaped by storms and ancient powers.",
+    "rating": 4.5,
+    "year": 2012,
+    "cover": "https://covers.openlibrary.org/b/title/The+Way+of+Kings-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "tags": [
+      "heists",
+      "crime",
+      "schemes",
+      "friendship"
+    ],
+    "description": "A clever group of thieves navigates elaborate cons and dangerous rivalries in a richly imagined city.",
+    "rating": 3.9,
+    "year": 1946,
+    "cover": "https://covers.openlibrary.org/b/title/The+Lies+of+Locke+Lamora-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genres": [
+      "Mystery",
+      "Psychology"
+    ],
+    "tags": [
+      "psychological",
+      "thriller",
+      "secrets",
+      "crime"
+    ],
+    "description": "A psychotherapist investigates why a famous painter stopped speaking after a violent crime.",
+    "rating": 4.6,
+    "year": 1963,
+    "cover": "https://covers.openlibrary.org/b/title/The+Silent+Patient-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genres": [
+      "Mystery",
+      "Psychology"
+    ],
+    "tags": [
+      "thriller",
+      "unreliable",
+      "narrators",
+      "crime"
+    ],
+    "description": "A marriage becomes the center of a media storm when a wife disappears and suspicion falls on her husband.",
+    "rating": 4.0,
+    "year": 1980,
+    "cover": "https://covers.openlibrary.org/b/title/Gone+Girl-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genres": [
+      "Mystery",
+      "Tech"
+    ],
+    "tags": [
+      "investigation",
+      "hacking",
+      "crime"
+    ],
+    "description": "A journalist and a skilled hacker investigate a decades-old disappearance in a wealthy family.",
+    "rating": 4.7,
+    "year": 1997,
+    "cover": "https://covers.openlibrary.org/b/title/The+Girl+with+the+Dragon+Tattoo-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genres": [
+      "Mystery"
+    ],
+    "tags": [
+      "detective",
+      "puzzle",
+      "clues"
+    ],
+    "description": "Detective Hercule Poirot investigates a murder aboard a luxury train trapped by snow.",
+    "rating": 4.1,
+    "year": 2014,
+    "cover": "https://covers.openlibrary.org/b/title/Murder+on+the+Orient+Express-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tags": [
+      "murder",
+      "suspense",
+      "puzzle"
+    ],
+    "description": "Ten strangers arrive on an island and are killed one by one as secrets surface.",
+    "rating": 4.8,
+    "year": 1948,
+    "cover": "https://covers.openlibrary.org/b/title/And+Then+There+Were+None-L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "tags": [
+      "love",
+      "society",
+      "wit",
+      "family"
+    ],
+    "description": "Elizabeth Bennet navigates family expectations, social class, and her changing feelings toward Mr. Darcy.",
+    "rating": 4.2,
+    "year": 1965,
+    "cover": "https://covers.openlibrary.org/b/title/Pride+and+Prejudice-L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "tags": [
+      "love",
+      "relationships",
+      "memory"
+    ],
+    "description": "A lifelong love story explores memory, devotion, and the lasting power of connection.",
+    "rating": 4.9,
+    "year": 1982,
+    "cover": "https://covers.openlibrary.org/b/title/The+Notebook-L.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "tags": [
+      "love",
+      "choices",
+      "life"
+    ],
+    "description": "An unexpected relationship changes the lives and outlooks of two very different people.",
+    "rating": 4.3,
+    "year": 1999,
+    "cover": "https://covers.openlibrary.org/b/title/Me+Before+You-L.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "tags": [
+      "love",
+      "youth",
+      "illness",
+      "meaning"
+    ],
+    "description": "Two teenagers with cancer fall in love while confronting uncertainty and meaning.",
+    "rating": 5.0,
+    "year": 2016,
+    "cover": "https://covers.openlibrary.org/b/title/The+Fault+in+Our+Stars-L.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genres": [
+      "Self-Help",
+      "Psychology"
+    ],
+    "tags": [
+      "habits",
+      "productivity",
+      "behavior",
+      "improvement"
+    ],
+    "description": "A practical guide to building better habits through small changes and consistent systems.",
+    "rating": 4.4,
+    "year": 1950,
+    "cover": "https://covers.openlibrary.org/b/title/Atomic+Habits-L.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "tags": [
+      "leadership",
+      "habits",
+      "productivity"
+    ],
+    "description": "A principle-centered framework for personal effectiveness, relationships, and long-term goals.",
+    "rating": 3.8,
+    "year": 1967,
+    "cover": "https://covers.openlibrary.org/b/title/The+7+Habits+of+Highly+Effective+People-L.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genres": [
+      "Self-Help",
+      "Tech"
+    ],
+    "tags": [
+      "focus",
+      "productivity",
+      "technology"
+    ],
+    "description": "A case for focused, distraction-free work as a skill for producing valuable results.",
+    "rating": 4.5,
+    "year": 1984,
+    "cover": "https://covers.openlibrary.org/b/title/Deep+Work-L.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genres": [
+      "Business",
+      "Self-Help"
+    ],
+    "tags": [
+      "success",
+      "wealth",
+      "goals",
+      "mindset"
+    ],
+    "description": "A classic personal-success book about goals, persistence, belief, and organized planning.",
+    "rating": 3.9,
+    "year": 2001,
+    "cover": "https://covers.openlibrary.org/b/title/Think+and+Grow+Rich-L.jpg"
+  },
+  {
+    "id": 29,
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "genres": [
+      "Self-Help",
+      "Psychology"
+    ],
+    "tags": [
+      "communication",
+      "leadership",
+      "relationships"
+    ],
+    "description": "Practical advice for communicating clearly, building relationships, and working with people.",
+    "rating": 4.6,
+    "year": 2018,
+    "cover": "https://covers.openlibrary.org/b/title/How+to+Win+Friends+and+Influence+People-L.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genres": [
+      "Business",
+      "Psychology"
+    ],
+    "tags": [
+      "money",
+      "behavior",
+      "investing",
+      "risk"
+    ],
+    "description": "Stories about behavior and uncertainty explain how people think about wealth, risk, and financial decisions.",
+    "rating": 4.0,
+    "year": 1952,
+    "cover": "https://covers.openlibrary.org/b/title/The+Psychology+of+Money-L.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genres": [
+      "History",
+      "Psychology"
+    ],
+    "tags": [
+      "human",
+      "history",
+      "society",
+      "evolution"
+    ],
+    "description": "A broad account of human history explores how shared stories shaped societies and institutions.",
+    "rating": 4.7,
+    "year": 1969,
+    "cover": "https://covers.openlibrary.org/b/title/Sapiens-L.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "genres": [
+      "History"
+    ],
+    "tags": [
+      "geography",
+      "civilization",
+      "agriculture"
+    ],
+    "description": "An exploration of geographic and environmental factors that influenced the development of societies.",
+    "rating": 4.1,
+    "year": 1986,
+    "cover": "https://covers.openlibrary.org/b/title/Guns,+Germs,+and+Steel-L.jpg"
+  },
+  {
+    "id": 33,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "tags": [
+      "memoir",
+      "war",
+      "resilience",
+      "history"
+    ],
+    "description": "A young Jewish diarist records daily life, fear, hope, and identity while hiding during World War II.",
+    "rating": 4.8,
+    "year": 2003,
+    "cover": "https://covers.openlibrary.org/b/title/The+Diary+of+a+Young+Girl-L.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "tags": [
+      "leadership",
+      "justice",
+      "politics",
+      "memoir"
+    ],
+    "description": "Nelson Mandela recounts his life and the struggle against apartheid in South Africa.",
+    "rating": 4.2,
+    "year": 2020,
+    "cover": "https://covers.openlibrary.org/b/title/Long+Walk+to+Freedom-L.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "genres": [
+      "Biography",
+      "Tech",
+      "Business"
+    ],
+    "tags": [
+      "innovation",
+      "design",
+      "technology",
+      "leadership"
+    ],
+    "description": "A biography examines the life, ambition, creativity, and leadership of Apple's co-founder.",
+    "rating": 4.9,
+    "year": 1954,
+    "cover": "https://covers.openlibrary.org/b/title/Steve+Jobs-L.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genres": [
+      "Biography",
+      "Psychology"
+    ],
+    "tags": [
+      "memoir",
+      "family",
+      "resilience",
+      "learning"
+    ],
+    "description": "A memoir follows a woman raised in an isolated household as she pursues education and independence.",
+    "rating": 4.3,
+    "year": 1971,
+    "cover": "https://covers.openlibrary.org/b/title/Educated-L.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genres": [
+      "Tech"
+    ],
+    "tags": [
+      "programming",
+      "software",
+      "engineering",
+      "quality"
+    ],
+    "description": "A software craftsmanship guide advocates readable code, thoughtful naming, and maintainable design.",
+    "rating": 5.0,
+    "year": 1988,
+    "cover": "https://covers.openlibrary.org/b/title/Clean+Code-L.jpg"
+  },
+  {
+    "id": 38,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "genres": [
+      "Tech"
+    ],
+    "tags": [
+      "programming",
+      "software",
+      "engineering",
+      "tools"
+    ],
+    "description": "A practical guide to adaptable software development, professional habits, and engineering judgment.",
+    "rating": 4.4,
+    "year": 2005,
+    "cover": "https://covers.openlibrary.org/b/title/The+Pragmatic+Programmer-L.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell and Peter Norvig",
+    "genres": [
+      "Tech",
+      "Sci-Fi"
+    ],
+    "tags": [
+      "artificial",
+      "intelligence",
+      "machine",
+      "learning",
+      "algorithms"
+    ],
+    "description": "A comprehensive textbook introduces AI concepts, search, reasoning, learning, and intelligent agents.",
+    "rating": 3.8,
+    "year": 2022,
+    "cover": "https://covers.openlibrary.org/b/title/Artificial+Intelligence:+A+Modern+Approach-L.jpg"
+  },
+  {
+    "id": 40,
+    "title": "The Code Book",
+    "author": "Simon Singh",
+    "genres": [
+      "Tech",
+      "History"
+    ],
+    "tags": [
+      "cryptography",
+      "mathematics",
+      "history",
+      "secrets"
+    ],
+    "description": "A history of cryptography explains how codes and codebreaking have shaped science, war, and communication.",
+    "rating": 4.5,
+    "year": 1956,
+    "cover": "https://covers.openlibrary.org/b/title/The+Code+Book-L.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genres": [
+      "Psychology",
+      "Biography"
+    ],
+    "tags": [
+      "meaning",
+      "resilience",
+      "psychology",
+      "memoir"
+    ],
+    "description": "A psychiatrist reflects on survival, suffering, and the human search for meaning.",
+    "rating": 3.9,
+    "year": 1973,
+    "cover": "https://covers.openlibrary.org/b/title/Man's+Search+for+Meaning-L.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genres": [
+      "Psychology",
+      "Self-Help"
+    ],
+    "tags": [
+      "cognition",
+      "bias",
+      "decisions",
+      "behavior"
+    ],
+    "description": "A look at two modes of thought explains biases, judgment, and decision-making.",
+    "rating": 4.6,
+    "year": 1990,
+    "cover": "https://covers.openlibrary.org/b/title/Thinking,+Fast+and+Slow-L.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "genres": [
+      "Psychology",
+      "Self-Help"
+    ],
+    "tags": [
+      "personality",
+      "introversion",
+      "society",
+      "leadership"
+    ],
+    "description": "An exploration of introversion challenges cultural assumptions about confidence and leadership.",
+    "rating": 4.0,
+    "year": 2007,
+    "cover": "https://covers.openlibrary.org/b/title/Quiet-L.jpg"
+  },
+  {
+    "id": 44,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genres": [
+      "Self-Help",
+      "Psychology"
+    ],
+    "tags": [
+      "mindfulness",
+      "awareness",
+      "peace"
+    ],
+    "description": "A guide to present-moment awareness and observing habitual thought patterns.",
+    "rating": 4.7,
+    "year": 1941,
+    "cover": "https://covers.openlibrary.org/b/title/The+Power+of+Now-L.jpg"
+  },
+  {
+    "id": 45,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genres": [
+      "Business",
+      "Tech"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "startups",
+      "product",
+      "experiments"
+    ],
+    "description": "A framework for testing business ideas through experimentation, feedback, and iterative learning.",
+    "rating": 4.1,
+    "year": 1958,
+    "cover": "https://covers.openlibrary.org/b/title/The+Lean+Startup-L.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Zero to One",
+    "author": "Peter Thiel and Blake Masters",
+    "genres": [
+      "Business",
+      "Tech"
+    ],
+    "tags": [
+      "startups",
+      "innovation",
+      "strategy"
+    ],
+    "description": "Essays on startups discuss innovation, competition, and building distinctive companies.",
+    "rating": 4.8,
+    "year": 1975,
+    "cover": "https://covers.openlibrary.org/b/title/Zero+to+One-L.jpg"
+  },
+  {
+    "id": 47,
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "genres": [
+      "Business"
+    ],
+    "tags": [
+      "investing",
+      "finance",
+      "risk",
+      "value"
+    ],
+    "description": "A foundational investing book emphasizes valuation, discipline, and a margin of safety.",
+    "rating": 4.2,
+    "year": 1992,
+    "cover": "https://covers.openlibrary.org/b/title/The+Intelligent+Investor-L.jpg"
+  },
+  {
+    "id": 48,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genres": [
+      "Sci-Fi",
+      "History"
+    ],
+    "tags": [
+      "physics",
+      "universe",
+      "cosmology",
+      "science"
+    ],
+    "description": "An accessible introduction to cosmology, black holes, time, and the origins of the universe.",
+    "rating": 4.9,
+    "year": 2009,
+    "cover": "https://covers.openlibrary.org/b/title/A+Brief+History+of+Time-L.jpg"
+  },
+  {
+    "id": 49,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Fiction",
+      "Adventure"
+    ],
+    "tags": [
+      "journey",
+      "purpose",
+      "dreams",
+      "destiny"
+    ],
+    "description": "A shepherd travels in search of treasure and discovers lessons about purpose and self-discovery.",
+    "rating": 4.3,
+    "year": 1943,
+    "cover": "https://covers.openlibrary.org/b/title/The+Alchemist-L.jpg"
+  },
+  {
+    "id": 50,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "tags": [
+      "justice",
+      "society",
+      "family",
+      "morality"
+    ],
+    "description": "A child observes prejudice, justice, and moral courage in a small Southern town.",
+    "rating": 5.0,
+    "year": 1960,
+    "cover": "https://covers.openlibrary.org/b/title/To+Kill+a+Mockingbird-L.jpg"
+  }
+]
